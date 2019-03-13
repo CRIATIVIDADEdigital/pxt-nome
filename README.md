@@ -13,7 +13,8 @@ O programa funciona por meio de um *loop* (ou repetição) infinito chamado ```|
 
 Após a alteração confira o resultado no simulador ou baixando a nova versão do código no seu Micro:bit.
 
-1. É possível fazer com que o programa apresente mais de um nome de cada vez. Vá até o grupo ```||basic:Básico||``` e arraste mais um bloco ``||basic:mostrar string||`` logo abaixo do primeiro nome. Você pode repetir este processo e incluir quantos nomes quiser.
+É possível fazer com que o programa apresente mais de um nome de cada vez. Veja abaixo:
+1. Vá até o grupo ```||basic:Básico||``` e arraste mais um bloco ``||basic:mostrar string||`` logo abaixo do primeiro nome. Você pode repetir este processo e incluir quantos nomes quiser.
 
 ```blocks
 basic.forever(function () {
@@ -23,6 +24,7 @@ basic.forever(function () {
 ```
 Após a alteração confira o resultado no simulador ou baixando a nova versão do código no seu Micro:bit.
 
+## Incluindo imagens
 Também é possível incluir imagens para separar cada nome. Veja abaixo como fazer.
 1. Usando o grupo ```||basic:Básico||``` arraste o bloco ```||basic:mostrar ícone||``` entre o primeiro e o segundo nome.
 1. Escolha um ícone na lista.

@@ -13,6 +13,7 @@ O programa funciona por meio de um *loop* (ou repetição) infinito chamado ```|
 
 Após a alteração confira o resultado no simulador ou baixando a nova versão do código no seu Micro:bit.
 
+## Mostrando dois nomes
 É possível fazer com que o programa apresente mais de um nome de cada vez. Veja abaixo:
 1. Vá até o grupo ```||basic:Básico||``` e arraste mais um bloco ``||basic:mostrar string||`` logo abaixo do primeiro nome. Você pode repetir este processo e incluir quantos nomes quiser.
 

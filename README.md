@@ -8,7 +8,7 @@ Qualquer dúvida na construção, use o **link (texto azul)** para abrir o víde
 ## ~
 
 ## Como funciona
-1. Baixe o programa no seu computador.
+1. [Baixe o programa](https://youtu.be/3d71vvRIwuY?t=1m16s) no seu computador.
 1. Conecte o Micro:bit e transfira o arquivo HEX.
 1. Ao término da transferência, o programa iniciará automaticamente em seu Micro:bit.
 

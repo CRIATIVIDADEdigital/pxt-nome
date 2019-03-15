@@ -1,7 +1,7 @@
 # Seu Nome no Micro:bit
 Este programa faz com que o Micro:bit apresente no seu painel de LEDs as letras do seu nome. 
 
-## ~Dica
+## ~Avatar
 
 Qualquer dúvida na construção, use o link (texto azul) para abrir o vídeo que apresenta como realizar aquele passo.
 

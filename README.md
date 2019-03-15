@@ -33,9 +33,9 @@ Após a alteração [confira o resultado no simulador](https://youtu.be/3d71vvRI
 
 ## Incluindo imagens
 Também é possível [incluir imagens para separar cada nome](https://youtu.be/3d71vvRIwuY?t=8m51s). Veja abaixo como fazer.
-1. Usando o grupo ```||basic:Básico||``` arraste o bloco ```||basic:mostrar ícone||``` entre o primeiro e o segundo nome.
-1. Escolha um ícone na lista.
-1. Ainda usando o grupo ```||basic:Básico||``` arraste o bloco ```||basic:mostrar leds||``` logo abaixo do bloco com o ícone. Deixando o conteúdo do ```||basic:mostrar leds||``` vazio o Micro:bit vai desligar os LEDs evitando que o segundo nome se misture com os LEDs do ícone.
+1. Usando o grupo ```||basic:Básico||``` [arraste o bloco](https://youtu.be/3d71vvRIwuY?t=8m57s) ```||basic:mostrar ícone||``` entre o primeiro e o segundo nome.
+1. [Escolha um ícone](https://youtu.be/3d71vvRIwuY?t=9m25s) na lista.
+1. Ainda usando o grupo ```||basic:Básico||``` [arraste o bloco](https://youtu.be/3d71vvRIwuY?t=9m49s) ```||basic:mostrar leds||``` logo abaixo do bloco com o ícone. Deixando o conteúdo do ```||basic:mostrar leds||``` vazio o Micro:bit vai desligar os LEDs evitando que o segundo nome se misture com os LEDs do ícone.
 
 ```blocks
 basic.forever(function () {
@@ -51,6 +51,7 @@ basic.forever(function () {
     basic.showString("Nome 2")
 })
 ```
+Pronto! Agora que você já viu como incluir nomes e ícones [experimente outras modificações](https://youtu.be/3d71vvRIwuY?t=11m46s) no programa como, por exemplo, acrescente outros nomes, mude a [ordem de apresentação dos ícones](https://youtu.be/3d71vvRIwuY?t=12m03s) e [transfira o resultado final](https://youtu.be/3d71vvRIwuY?t=14m00s) para o hardware do Micro:bit.
 
 ## Créditos
 Esta atividade foi criado pelo [APRENDER.digital](https://aprender.digital) usando como base o código do [Name Tag](https://makecode.microbit.org/projects/name-tag).

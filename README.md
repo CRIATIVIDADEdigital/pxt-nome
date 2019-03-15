@@ -51,7 +51,7 @@ basic.forever(function () {
     basic.showString("Nome 2")
 })
 ```
-Pronto! Agora que você já viu como incluir nomes e ícones [experimente outras modificações](https://youtu.be/3d71vvRIwuY?t=11m46s) no programa como, por exemplo, acrescente outros nomes, mude a [ordem de apresentação dos ícones](https://youtu.be/3d71vvRIwuY?t=12m03s) e [transfira o resultado final](https://youtu.be/3d71vvRIwuY?t=14m00s) para o hardware do Micro:bit.
+Pronto! Agora que você já viu como incluir nomes e ícones [experimente outras modificações](https://youtu.be/3d71vvRIwuY?t=11m46s) no programa como, por exemplo, acrescente outros nomes, mude a [ordem de apresentação dos ícones](https://youtu.be/3d71vvRIwuY?t=12m03s) e transfira o resultado final [para o hardware do Micro:bit](https://youtu.be/3d71vvRIwuY?t=14m00s).
 
 ## Créditos
 Esta atividade foi criado pelo [APRENDER.digital](https://aprender.digital) usando como base o código do [Name Tag](https://makecode.microbit.org/projects/name-tag).

@@ -1,6 +1,12 @@
 # Seu Nome no Micro:bit
 Este programa faz com que o Micro:bit apresente no seu painel de LEDs as letras do seu nome. 
 
+## ~hint
+
+Qualquer dúvida na construção, use o link (texto azul) para abrir o vídeo que apresenta como realizar aquele passo.
+
+## ~
+
 ## Como funciona
 1. Baixe o programa no seu computador.
 1. Conecte o Micro:bit e transfira o arquivo HEX.

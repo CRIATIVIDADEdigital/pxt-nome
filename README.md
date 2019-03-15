@@ -9,18 +9,18 @@ Qualquer dúvida na construção, use o **link (texto azul)** para abrir o víde
 
 ## Como funciona
 1. [Baixe o programa](https://youtu.be/3d71vvRIwuY?t=1m16s) no seu computador.
-1. Conecte o Micro:bit e transfira o arquivo HEX.
+1. [Conecte](https://youtu.be/3d71vvRIwuY?t=2m12s) o Micro:bit e [transfira] o arquivo HEX.
 1. Ao término da transferência, o programa iniciará automaticamente em seu Micro:bit.
 
 ## Como incluir o seu nome
-O programa funciona por meio de um *loop* (ou repetição) infinito chamado ```||basic:sempre||``` em que o bloco  ```||basic:mostrar string||``` define qual o texto que será apresentado no painel de LEDs do Micro:bit. 
+[O programa funciona](https://youtu.be/3d71vvRIwuY?t=5m21s) por meio de um *loop* (ou repetição) infinito chamado ```||basic:sempre||``` em que o bloco  ```||basic:mostrar string||``` define qual o texto que será apresentado no painel de LEDs do Micro:bit. 
 
-1. Para alterar o texto apresentado pelo Micro:bit altere o texto (*string*) presente no bloco ```||basic:mostrar string||```.
+1. [Para alterar o texto](https://youtu.be/3d71vvRIwuY?t=5m58s) apresentado pelo Micro:bit altere o texto (*string*) presente no bloco ```||basic:mostrar string||```.
 
-Após a alteração confira o resultado no simulador ou baixando a nova versão do código no seu Micro:bit.
+Após a alteração [confira o resultado no simulador](https://youtu.be/3d71vvRIwuY?t=6m21s) ou baixando a nova versão do código no seu Micro:bit.
 
 ## Mostrando dois nomes
-É possível fazer com que o programa apresente mais de um nome de cada vez. Veja abaixo:
+É possível fazer com que o programa [apresente mais de um nome](https://youtu.be/3d71vvRIwuY?t=7m10s) de cada vez. Veja abaixo:
 1. Vá até o grupo ```||basic:Básico||``` e arraste mais um bloco ``||basic:mostrar string||`` logo abaixo do primeiro nome. Você pode repetir este processo e incluir quantos nomes quiser.
 
 ```blocks
@@ -29,10 +29,10 @@ basic.forever(function () {
     basic.showString("Nome 2")
 })
 ```
-Após a alteração confira o resultado no simulador ou baixando a nova versão do código no seu Micro:bit.
+Após a alteração [confira o resultado no simulador](https://youtu.be/3d71vvRIwuY?t=8m20s) ou baixando a nova versão do código no seu Micro:bit.
 
 ## Incluindo imagens
-Também é possível incluir imagens para separar cada nome. Veja abaixo como fazer.
+Também é possível [incluir imagens para separar cada nome](https://youtu.be/3d71vvRIwuY?t=8m51s). Veja abaixo como fazer.
 1. Usando o grupo ```||basic:Básico||``` arraste o bloco ```||basic:mostrar ícone||``` entre o primeiro e o segundo nome.
 1. Escolha um ícone na lista.
 1. Ainda usando o grupo ```||basic:Básico||``` arraste o bloco ```||basic:mostrar leds||``` logo abaixo do bloco com o ícone. Deixando o conteúdo do ```||basic:mostrar leds||``` vazio o Micro:bit vai desligar os LEDs evitando que o segundo nome se misture com os LEDs do ícone.

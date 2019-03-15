@@ -3,7 +3,7 @@ Este programa faz com que o Micro:bit apresente no seu painel de LEDs as letras 
 
 ## ~avatar
 
-Qualquer dúvida na construção, use o link (texto azul) para abrir o vídeo que apresenta como realizar aquele passo.
+Qualquer dúvida na construção, use o link (texto azul) para abrir o vídeo que apresenta como realizar aquele passo. Para acessar o vídeo com o tutorial completo, use [este link](https://youtu.be/3d71vvRIwuY){:target="_blank"} .
 
 ## ~
 
